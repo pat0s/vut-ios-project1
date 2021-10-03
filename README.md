@@ -13,3 +13,7 @@ tradelog [-h|--help] [FILTER] [PRÍKAZ] [LOG [LOG2 [...]]
 ```
 tradelog -h|--help
 ```
+
+### Ukážka vstupov:
+
+https://pajda.fit.vutbr.cz/ios/ios-21-1-logs
